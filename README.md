@@ -1,7 +1,5 @@
 
-  # User Dashboard Design
-
-  This is a code bundle for User Dashboard Design. The original project is available at https://www.figma.com/design/qcHVtxbOxvJp4fGjjdWUTP/User-Dashboard-Design.
+  Trabajo para emprendimiento e innovacion usando figma make para visualizar ideas para paginas.
 
   ## Running the code
 
